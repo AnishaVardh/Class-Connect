@@ -5,3 +5,4 @@ The main objective of a Class connect is to manage the learning process. It is a
 
 Technologies Used:
 JSP, SERVLET, HTML, CSS, JAVASCRIPT, DATABASE
+![image](https://github.com/AnishaVardh/Class-Connect/assets/88444553/cfebdc3d-da88-4242-869f-e7d917b853ba)
